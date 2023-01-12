@@ -14,3 +14,12 @@ to interact with users inside the app. Also, the programmers made sure that they
 smooth and user-friendly application to the users. To summarize, the application wants to promote our 
 country, share our culture, and educate the people.
 
+## Project Screenshots
+<img src="/screenshots/StartUpScreen.png" width=25% height=25%>
+<img src="/screenshots/SignInScreen.png" width=25% height=25%>
+<img src="/screenshots/SignUpScreen.png" width=25% height=25%>
+<img src="/screenshots/HomeScreen.png" width=25% height=25%>
+<img src="/screenshots/PlaceScreen.png" width=25% height=25%>
+<img src="/screenshots/PlaceCommentsScreen.png" width=25% height=25%>
+<img src="/screenshots/SavedPlacesScreen.png" width=25% height=25%>
+<img src="/screenshots/ProfileScreen.png" width=25% height=25%>
